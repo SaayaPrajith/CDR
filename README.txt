@@ -18,9 +18,9 @@ STEP 2 — Install required libraries:
         pip install matplotlib pandas
 
 STEP 3 — Run the application:
-    Double-click  phone_cdr_analyzer.py
+    Double-click  cdr_analyzer.py
     OR open terminal in the folder and type:
-        python phone_cdr_analyzer.py
+        python cdr_analyzer.py
 
 
 
